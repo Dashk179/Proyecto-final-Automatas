@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+   background-color: lavender;
+   text-size-adjust: initial;
+}
+
+#resultado {
+  
+    padding-bottom: 50%;
+    text-align: center;
+    text-size-adjust: 100%;
+    background-image: url(fondo.png);
+    background-position: 100%;
+    
+   }
+
+#yo{
+    background-color: rgba(2, 12, 100, 0.801);
+    text-align: center;
+    padding-bottom: 10;
+    max-width: 50%;
+    padding-right: 0px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+
+.entrada{
+    text-align: center;
+    text-size-adjust: 100%;
+    padding-right: 10px;
+}
+#resultado.ok {
+    background-color: rgb(32, 201, 88);
+}
+
+#contenido.entrada{
+     margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
